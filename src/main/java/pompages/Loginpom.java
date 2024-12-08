@@ -26,7 +26,10 @@ public class Loginpom extends Base {
 
 	
 	@FindBy (how=How.XPATH ,using="//*[@class='a-list-item']")private WebElement errormsg;
-	
+	private void Syso() {
+		// TODO Auto-generated method stub
+
+	}
 	
 	public void enterid()
 	{
